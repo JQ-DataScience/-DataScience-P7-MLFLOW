@@ -1,0 +1,15 @@
+artifact_uri: /home/marcus/Documents/DATA SCIENCE - OCR/PROJET 7/mlflow/mlruns/858305013345223112/68e9a5d99d46445fb3b850fc98561a7b/artifacts
+end_time: 1679420902583
+entry_point_name: ''
+experiment_id: '858305013345223112'
+lifecycle_stage: active
+run_id: 68e9a5d99d46445fb3b850fc98561a7b
+run_name: blushing-worm-540
+run_uuid: 68e9a5d99d46445fb3b850fc98561a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679420754802
+status: 4
+tags: []
+user_id: marcus

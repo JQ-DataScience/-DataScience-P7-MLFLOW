@@ -1,0 +1,15 @@
+artifact_uri: /home/marcus/Documents/DATA SCIENCE - OCR/PROJET 7/mlflow/mlruns/858305013345223112/b79bb94714a84053b301b4353188b42f/artifacts
+end_time: 1679421841076
+entry_point_name: ''
+experiment_id: '858305013345223112'
+lifecycle_stage: active
+run_id: b79bb94714a84053b301b4353188b42f
+run_name: beautiful-snipe-210
+run_uuid: b79bb94714a84053b301b4353188b42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679421698827
+status: 3
+tags: []
+user_id: marcus

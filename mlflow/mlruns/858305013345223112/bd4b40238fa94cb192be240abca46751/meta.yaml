@@ -1,0 +1,15 @@
+artifact_uri: /home/marcus/Documents/DATA SCIENCE - OCR/PROJET 7/mlflow/mlruns/858305013345223112/bd4b40238fa94cb192be240abca46751/artifacts
+end_time: 1679421438509
+entry_point_name: ''
+experiment_id: '858305013345223112'
+lifecycle_stage: active
+run_id: bd4b40238fa94cb192be240abca46751
+run_name: adorable-toad-242
+run_uuid: bd4b40238fa94cb192be240abca46751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679421297173
+status: 3
+tags: []
+user_id: marcus
